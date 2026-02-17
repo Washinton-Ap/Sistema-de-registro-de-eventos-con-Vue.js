@@ -1,0 +1,2 @@
+# Sistema-de-registro-de-eventos-con-Vue.js
+MANUAL DE DESARROLLO CON VUE.JS PARA UN SISTEMA DE REGISTRO DE EVENTOS
